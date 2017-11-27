@@ -1,0 +1,11 @@
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\bin\Debug\netcoreapp2.0\WebApi 1.deps.json
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\bin\Debug\netcoreapp2.0\WebApi 1.runtimeconfig.json
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\bin\Debug\netcoreapp2.0\WebApi 1.runtimeconfig.dev.json
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\bin\Debug\netcoreapp2.0\WebApi 1.dll
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\bin\Debug\netcoreapp2.0\WebApi 1.pdb
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\obj\Debug\netcoreapp2.0\WebApi 1.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\obj\Debug\netcoreapp2.0\WebApi 1.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\obj\Debug\netcoreapp2.0\WebApi 1.AssemblyInfoInputs.cache
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\obj\Debug\netcoreapp2.0\WebApi 1.AssemblyInfo.cs
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\obj\Debug\netcoreapp2.0\WebApi 1.dll
+C:\Users\Fredrik\Desktop\YHSUST16\Avancerad ASP.NET\Övningar\WebApi 1\WebApi 1\obj\Debug\netcoreapp2.0\WebApi 1.pdb
